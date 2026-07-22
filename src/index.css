@@ -27,7 +27,7 @@
 
 .custom-pagination .swiper-pagination-bullet-active {
   background: orange;
-  color: red;
+  color: rgb(0, 0, 0);
 }
 
 .custom-pagination::after {
